@@ -8,7 +8,7 @@
 Данный проект дает возможность сменить тему оформления окна браузера, на любой из перечисленных.
 
 <p>
-    <img src="https://i.ibb.co/qMJLWMj/image.png alt="Фотография 1" width="400">
+    <img src="https://i.ibb.co/qMJLWMj/image.png alt="Фотография 1" width="700">
 </p>
 
 ## Разработчик

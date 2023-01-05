@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: left;
+    align-items: top;
+    background-color: #2d2d2d;
+}
+.themeWrapper {
+    padding: 50px 40px 25px 20px;
+    border: 1px solid black;
+    margin-bottom: 2px;
+    border-radius: 4px;
+}
+
+.pinkWrapper {
+    background: linear-gradient(90deg, pink, white);
+}
+.grayWrapper {
+    background: linear-gradient(90deg, gray, rgb(255, 255, 255));
+}
+.turquoiseWrapper {
+    background: linear-gradient(90deg, #0cd8ebaa, #0cd8ebaa);
+}
+.yellowWrapper {
+    background: linear-gradient(90deg,#f5ff2db3, #f5ff2db3);
+}
+.purpleWrapper {
+    background: linear-gradient(90deg,#a619e7b3, #a619e7b3);
+
+}

@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img src="http://x-lines.ru/letters/i/cyrillicbasic/0387/6131BD/20/0/cpwgn5u8pfzgqedwpb11y7decissk.png" width="350">
+      <img src="http://x-lines.ru/letters/i/cyrillicbasic/0387/6131BD/20/0/cpwgn5u8pfzgqedwpb11y7decissk.png" width="400">
 </p>
 
 ## Информация о слайдере
